@@ -3,9 +3,9 @@
 #### Technical Skills: C++, Python, SQL, Java, MATLAB, Android Studio
 
 ## Education
-- B.CS., Artificial Intelligence     | Universiti Teknikal Malaysia Melaka (_Mar 2024_)
+- B.CS., Artificial Intelligence | Universiti Teknikal Malaysia Melaka (_Mar 2024_)
 - Matric, Module II Physical Science | Kolej Matrikulasi Negeri Sembilan (_Mar 2020_)
-- SS, Pure Science                   | St. John's Institution KL (_2018_)
+- SS, Pure Science | St. John's Institution KL (_2018_)
 
 ## Projects
 ### Optimizing CCTV Placement for Indoor Building using Genetic Algorithm - 2023
