@@ -18,8 +18,8 @@
 - Developed menu selection using a genetic algorithm (GA) to find the best menu combination for breakfast, lunch, and dinner using the dataset of McDonald’s food calories.
 
 ### Round Object Identification - 2022
-- Experimented with identifying circular objects in this project.
 [Project YouTube](https://youtu.be/ZU-yUrgbXfE)
+- Experimented with identifying circular objects in this project.
 
 ### Warehouse Management System - 2022
 - Developed a warehouse management system that helps the traceability and connectivity of the goods increase and makes the inventory and outfitting records accurately organized.
