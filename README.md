@@ -26,3 +26,15 @@
 
 ### Hospital Information Management System
 - Developed a program that will record and view Covid-19 cases for three districts in Melaka. These three districts which are affected by Covid-19 are Melaka Tengah, Alor Gajah, and Jasin.
+
+## Hard Skills
+|:-------------|:------------------|
+| C++            | Advanced  |
+| Python         | Advanced  |
+| SQL            | Basic  |
+| Java           | Advanced  |
+| MATLAB         | Intermediate  |
+| Android Studio | Intermediate  |
+| Data analysis  | Basic |
+| Software development | Intermediate |
+| Cloud skills | Basic |
