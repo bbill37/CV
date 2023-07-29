@@ -38,3 +38,9 @@
 | Software development | Intermediate |
 | Data analysis  | Basic |
 | Cloud skills | Basic |
+
+## Soft Skills
+- Time management
+- Attention to detail
+- Teamwork
+- Communication
