@@ -15,7 +15,6 @@
 
 ### Round Object Identification - 2022
 https://youtu.be/ZU-yUrgbXfE
-![image](https://github.com/bbill37/nabilnor.github.io/assets/104244482/e1212012-2a06-40f3-be76-6c86529a9a13)
 
 
 ### Warehouse Management System - 2022
