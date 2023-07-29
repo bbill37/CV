@@ -29,10 +29,10 @@
 - Developed a program that will record and view Covid-19 cases for three districts in Melaka. These three districts which are affected by Covid-19 are Melaka Tengah, Alor Gajah, and Jasin.
 
 ## Certifications
-- 'Google Cloud Computing Foundation' [Public Profile](https://www.cloudskillsboost.google/public_profiles/c3c52fe5-fa9f-4df6-ab2d-5ab4b893b593) (_Sep 2023_)
-- 'Machine Learning Professional Certification' - Altair RapidMiner (_Dec 2022_)
-- 'Data Engineering Professional Certification' - Altair RapidMiner (_Dec 2022_)
-- 'Applications & Use Cases Professional Certification' - Altair RapidMiner (_Dec 2022_)
+- `Google Cloud Computing Foundation` [Public Profile](https://www.cloudskillsboost.google/public_profiles/c3c52fe5-fa9f-4df6-ab2d-5ab4b893b593) (_Sep 2023_)
+- `Machine Learning Professional Certification` - Altair RapidMiner (_Dec 2022_)
+- `Data Engineering Professional Certification` - Altair RapidMiner (_Dec 2022_)
+- `Applications & Use Cases Professional Certification` - Altair RapidMiner (_Dec 2022_)
 
 ## Hard Skills
 
