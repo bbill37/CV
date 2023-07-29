@@ -32,10 +32,9 @@
 |:-------------|:------------------|
 | C++            | Advanced  |
 | Python         | Advanced  |
-| SQL            | Basic  |
 | Java           | Advanced  |
 | MATLAB         | Intermediate  |
 | Android Studio | Intermediate  |
-| Data analysis  | Basic |
 | Software development | Intermediate |
+| Data analysis  | Basic |
 | Cloud skills | Basic |
