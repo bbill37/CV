@@ -56,11 +56,11 @@ Final-year B.CS. student specializing in Artificial Intelligence, seeking a 6-mo
 
 ## Referees
 
-__TS. DR. ZERATUL IZZAH BINTI MOHD YUSOH__ | PERSONAL ADVISOR\
-0123578541 | zeratul@utem.edu.my
+__TS. DR. ZERATUL IZZAH BINTI MOHD YUSOH__ | zeratul@utem.edu.my
+PERSONAL ADVISOR | 0123578541
 
-__DR. NORHAZWANI BINTI MD YUNOS__ | SENIOR LECTURER\
-0127442798 | wanie.my@utem.edu.my
+__DR. NORHAZWANI BINTI MD YUNOS__ | wanie.my@utem.edu.my
+SENIOR LECTURER | 0127442798
 
 * * *
 
