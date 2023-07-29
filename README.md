@@ -31,10 +31,10 @@ Final-year B.CS. student specializing in Artificial Intelligence, seeking an int
 - Developed a program that will record and view Covid-19 cases for three districts in Melaka. These three districts which are affected by Covid-19 are Melaka Tengah, Alor Gajah, and Jasin.
 
 ## Certifications
-- `Google Cloud Computing Foundation` - Google Cloud (_Sep 2023_)
-- `Machine Learning Professional Certification` - Altair RapidMiner (_Dec 2022_)
-- `Data Engineering Professional Certification` - Altair RapidMiner (_Dec 2022_)
-- `Applications & Use Cases Professional Certification` - Altair RapidMiner (_Dec 2022_)
+- __Google Cloud Computing Foundation__ - Google Cloud (_Sep 2023_)
+- __Machine Learning Professional Certification__ - Altair RapidMiner (_Dec 2022_)
+- __Data Engineering Professional Certification__ - Altair RapidMiner (_Dec 2022_)
+- __Applications & Use Cases Professional Certification__ - Altair RapidMiner (_Dec 2022_)
 
 ## Hard Skills
 
