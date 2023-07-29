@@ -28,25 +28,16 @@
 - Developed a program that will record and view Covid-19 cases for three districts in Melaka. These three districts which are affected by Covid-19 are Melaka Tengah, Alor Gajah, and Jasin.
 
 ## Hard Skills
-- C++                   | Advanced     
-- Python                | Advanced     
-- Java                  | Advanced     
-- MATLAB                | Intermediate 
-- Android Studio        | Intermediate 
-- Software development  | Intermediate 
-- Data analysis         | Basic        
-- Cloud skills          | Basic
 
-| head1        | head two          |
-|:-------------|:------------------|
-| ok           | Advanced          |
-| out of stock | Advanced          |
-| ok           | Advanced          |
-| ok           | Intermediate      |
-| ok           | Intermediate      |
-| ok           | Intermediate      |
-| ok           | Basic             |
-| ok           | Basic             |
+| Skill          | Level             |
+|:---------------|:------------------|
+| C++            | Advanced          |
+| Python         | Advanced          |
+| Java           | Advanced          |
+| MATLAB         | Intermediate      |
+| Android Studio | Intermediate      |
+| Data analysis  | Basic             |
+| Cloud skills   | Basic             |
 
 ## Soft Skills
 - Time management
