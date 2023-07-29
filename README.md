@@ -39,10 +39,14 @@
 
 | head1        | head two          |
 |:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+| ok           | Advanced          |
+| out of stock | Advanced          |
+| ok           | Advanced          |
+| ok           | Intermediate      |
+| ok           | Intermediate      |
+| ok           | Intermediate      |
+| ok           | Basic             |
+| ok           | Basic             |
 
 ## Soft Skills
 - Time management
