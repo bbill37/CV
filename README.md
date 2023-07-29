@@ -56,15 +56,15 @@ Final-year B.CS. student specializing in Artificial Intelligence, seeking a 6-mo
 
 ## Referees
 
-__TS. DR. ZERATUL IZZAH BINTI MOHD YUSOH__ | PERSONAL ADVISOR
-0123578541, zeratul@utem.edu.my
+__TS. DR. ZERATUL IZZAH BINTI MOHD YUSOH__ | PERSONAL ADVISOR\
+0123578541 | zeratul@utem.edu.my
 
-__DR. NORHAZWANI BINTI MD YUNOS__ | SENIOR LECTURER
-0127442798, wanie.my@utem.edu.my
+__DR. NORHAZWANI BINTI MD YUNOS__ | SENIOR LECTURER\
+0127442798 | wanie.my@utem.edu.my
 
 * * *
-[Email](nabilakif6237@gmail.com)
-[Phone Number](+60129739314)
-[LinkedIn](https://www.linkedin.com/in/nabil-nor-64289a19b)
-[GitHub](https://github.com/bbill37)
+
+Call [Nabil Nor](tel:60129739314) or Email [Nabil Nor](mailto:nabilakif6237@gmail.com)\
+[LinkedIn](https://www.linkedin.com/in/nabil-nor-64289a19b) |
+[GitHub](https://github.com/bbill37) |
 [Google Cloud's Profile](https://www.cloudskillsboost.google/public_profiles/c3c52fe5-fa9f-4df6-ab2d-5ab4b893b593)
