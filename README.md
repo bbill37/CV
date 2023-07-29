@@ -28,7 +28,7 @@
 - Developed a program that will record and view Covid-19 cases for three districts in Melaka. These three districts which are affected by Covid-19 are Melaka Tengah, Alor Gajah, and Jasin.
 
 ## Hard Skills
-|:-------------|:------------------|
+
 | C++            | Advanced  |
 | Python         | Advanced  |
 | SQL            | Basic  |
