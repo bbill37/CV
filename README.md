@@ -53,6 +53,14 @@ Final-year B.CS. student specializing in Artificial Intelligence, seeking a 6-mo
 - Attention to detail
 - Teamwork
 - Communication
+
+| Referees (First)                       | Referees (Second)             |
+|:---------------------------------------|:------------------------------|
+| TS. DR. ZERATUL IZZAH BINTI MOHD YUSOH | DR. NORHAZWANI BINTI MD YUNOS |
+| PERSONAL ADVISOR                       | SENIOR LECTURER               |
+| 0123578541                             | 0127442798                    |
+| zeratul@utem.edu.my                    | wanie.my@utem.edu.my          |
+
 * * *
 [Email](nabilakif6237@gmail.com)
 [Phone Number](+60129739314)
