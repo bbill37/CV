@@ -65,7 +65,7 @@ SENIOR LECTURER | 0127442798
 * * *
 
 Call [Nabil Nor](tel:60129739314) or Email [Nabil Nor](mailto:nabilakif6237@gmail.com)\
-[Cover Letter](./akuan_perlindungan_diri.pdf)\
+[Cover Letter](https://drive.google.com/file/d/1d76a9ZgQRlLairH4lP_wGArNDnUFiTkX/view?usp=drive_link)\
 \
 [LinkedIn](https://www.linkedin.com/in/nabil-nor-64289a19b) |
 [GitHub](https://github.com/bbill37) |
