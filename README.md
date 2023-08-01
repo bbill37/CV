@@ -2,7 +2,7 @@
 
 Final-year B.CS. student specializing in Artificial Intelligence, seeking a 6-month internship opportunity starting in October 2023 until March 2024. Eager to contribute my knowledge and skills in AI, computer science, and IT to a forward-thinking company in the tech industry. Experienced in developing AI solutions and software applications, with a passion for solving real-world challenges. Certified in Google Cloud Computing, Machine Learning, Data Engineering, and Applications & Use Cases. Proficient in C++, Python, Java, MATLAB, and Android Studio. A detail-oriented and collaborative team player with strong communication and time management skills.
 
-<! -- [UTeM's Cover Letter](https://drive.google.com/file/d/1d76a9ZgQRlLairH4lP_wGArNDnUFiTkX/view?usp=drive_link) -->
+<!-- [UTeM's Cover Letter](https://drive.google.com/file/d/1d76a9ZgQRlLairH4lP_wGArNDnUFiTkX/view?usp=drive_link) -->
 
 ## Education
 - B.CS., Artificial Intelligence | Universiti Teknikal Malaysia Melaka (_Mar 2024_)
