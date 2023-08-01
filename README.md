@@ -2,6 +2,8 @@
 
 Final-year B.CS. student specializing in Artificial Intelligence, seeking a 6-month internship opportunity starting in October 2023 until March 2024. Eager to contribute my knowledge and skills in AI, computer science, and IT to a forward-thinking company in the tech industry. Experienced in developing AI solutions and software applications, with a passion for solving real-world challenges. Certified in Google Cloud Computing, Machine Learning, Data Engineering, and Applications & Use Cases. Proficient in C++, Python, Java, MATLAB, and Android Studio. A detail-oriented and collaborative team player with strong communication and time management skills.
 
+[Cover Letter](https://drive.google.com/file/d/1d76a9ZgQRlLairH4lP_wGArNDnUFiTkX/view?usp=drive_link)
+
 ## Education
 - B.CS., Artificial Intelligence | Universiti Teknikal Malaysia Melaka (_Mar 2024_)
 - Matric, Module II Physical Science | Kolej Matrikulasi Negeri Sembilan (_Mar 2020_)
@@ -65,8 +67,7 @@ SENIOR LECTURER | 0127442798
 * * *
 
 Call [Nabil Nor](tel:60129739314) or Email [Nabil Nor](mailto:nabilakif6237@gmail.com)\
-[Cover Letter](https://drive.google.com/file/d/1d76a9ZgQRlLairH4lP_wGArNDnUFiTkX/view?usp=drive_link)\
-\
+
 [LinkedIn](https://www.linkedin.com/in/nabil-nor-64289a19b) |
 [GitHub](https://github.com/bbill37) |
 [Google Cloud's Profile](https://www.cloudskillsboost.google/public_profiles/c3c52fe5-fa9f-4df6-ab2d-5ab4b893b593)
