@@ -66,7 +66,7 @@ SENIOR LECTURER | 0127442798
 
 * * *
 
-Call [Nabil Nor](tel:60129739314) or Email [Nabil Nor](mailto:nabilakif6237@gmail.com)\
+Call [Nabil Nor](tel:60129739314) or Email [Nabil Nor](mailto:nabilakif6237@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/nabil-nor-64289a19b) |
 [GitHub](https://github.com/bbill37) |
