@@ -1,10 +1,10 @@
-# Artificial Intelligence Graduate and Web Development Intern
+# AI Graduate and Web Dev Intern
 
-I am a final-year B.CS. student specializing in Artificial Intelligence, currently excelling in a dynamic internship at XeerSoft until March 2024. My proven expertise spans AI, computer science, and web development, supported by hands-on experience in crafting AI solutions and contributing to the XeerSoft web administration projects. Throughout my internship, I have honed my skills in Golang, AngularJS, and database management tools, showcasing a strong commitment to problem-solving and delivering innovative solutions.
+I'm a final-year B.CS. student specializing in AI, currently excelling in a dynamic internship at XeerSoft until March 2024. With proven expertise in AI, computer science, and web development, I've crafted AI solutions and contributed to XeerSoft's web administration projects. During my internship, I've sharpened skills in Golang, AngularJS, and databases, demonstrating a commitment to problem-solving.
 
-Certified in Google Cloud Computing, Machine Learning, Data Engineering, and Applications & Use Cases, I bring a holistic approach to technology. As I transition from an intern to a graduate, I am eager to leverage my diverse skill set and practical experience in a challenging role that contributes to a tech-focused organization's success.
+Certified in Google Cloud Computing, Machine Learning, Data Engineering, and Applications & Use Cases, I bring a holistic tech approach. Transitioning from intern to graduate, I'm eager to apply my diverse skills in a challenging role that contributes to a tech-focused organization's success.
 
-A detail-oriented and collaborative team player, I possess strong communication and time management skills. I am excited about the prospect of contributing to and thriving in a dynamic professional environment after graduation.
+As a detail-oriented team player with strong communication skills, I'm excited about contributing to a dynamic professional environment post-graduation.
 
 <!-- [UTeM's Cover Letter](https://drive.google.com/file/d/1d76a9ZgQRlLairH4lP_wGArNDnUFiTkX/view?usp=drive_link) -->
 
@@ -13,30 +13,42 @@ A detail-oriented and collaborative team player, I possess strong communication 
 - Matriculation, Module II Physical Science | Kolej Matrikulasi Negeri Sembilan (_Mar 2020_)
 - SPM, Pure Science | St. John's Institution KL (_Dec 2018_)
 
+### XeerSoft Sdn Bhd (Oct 2023-Mar 2024)
+- **Development Solution Team**
+  - Played a vital role in the development solution team at XeerSoft, contributing to crucial projects.
+  - **Project Management**
+    - Managed tasks and timelines, ensuring efficient project delivery.
+    - Collaborated with cross-functional teams for project requirements and execution.
+  - **Problem Resolution**
+    - Proactively identified and resolved challenges, ensuring the smooth progress of development.
+  - **Continuous Learning**
+    - Adapted to new technologies and methodologies for project optimization.
+
 ## Projects
+
 ### XeerSoft Web (Dev Solution Intern)
-- Developed and maintained the XeerSoft Web Admin, a crucial component for efficient company operations.
-- Implemented new features and functionality using Angular CLI version 15.2.1, ensuring a seamless and user-friendly experience.
-- Collaborated with cross-functional teams to gather requirements, troubleshoot issues, and optimize user workflows.
-- Conducted code reviews, identified areas for improvement, and implemented best practices for web development.
-- Utilized technologies such as Angular, TypeScript, HTML, and CSS to create responsive and dynamic user interfaces.
+- **Developed and Maintained XeerSoft Web Admin**
+  - Implemented features and functionality using Angular CLI (v15.2.1), ensuring a seamless user experience.
+  - Collaborated across teams, gathered requirements, troubleshooted issues, and optimized user workflows.
+  - Conducted code reviews, identified improvements, and implemented best practices.
+  - Utilized Angular, TypeScript, HTML, and CSS for responsive and dynamic UI.
 
 ### XeerSoft API (Dev Solution Intern)
-- Actively contributed to the development and maintenance of the XeerSoft API, a crucial component linking the server database to the web admin.
-- Implemented and optimized API endpoints using Golang, ensuring efficient data retrieval, storage, and processing.
-- Employed SQLyog as the graphical user interface tool for seamless management of the MySQL relational database.
-- Utilized Postman as the primary API platform for testing, debugging, and initial documentation.
-- Explored Swagger for API documentation, learning the existing codebase, and experimenting with configurations to enhance documentation practices.
-- Collaborated closely with backend developers to improve data synchronization and overall API functionality.
-- Assisted in documenting API specifications and best practices for future reference and team collaboration.
-- Despite having no commit authority, actively engaged in problem-solving and contributed to the continuous improvement of the API.
-- Gained hands-on experience with Golang, MySQL, Postman, and explored Swagger for effective API documentation.
+- **Contributed to XeerSoft API Development**
+  - Developed and maintained the XeerSoft API, bridging the server database and web admin.
+  - Implemented and optimized API endpoints with Golang, ensuring efficient data retrieval, storage, and processing.
+  - Used SQLyog for MySQL management and Postman for API testing and debugging.
+  - Explored Swagger for API documentation, learning existing code, and enhancing documentation practices.
+  - Collaborated on backend improvements for data synchronization and overall API functionality.
+  - Assisted in documenting API specifications and best practices.
+  - Engaged in problem-solving despite no commit authority, contributing to continuous API enhancement.
 
-### FYP: Optimizing CCTV Placement for Indoor Building using Genetic Algorithm
-- Developed software using Python to aid technicians and engineers in determining optimal camera locations for indoor buildings.
-- Utilized OpenCV for image preprocessing to enhance analysis accuracy.
-- Applied the Genetic Algorithm, drawing inspiration from the Art Gallery Problem and related references, to optimize camera placement.
-- Considered factors such as camera quantity and coverage area for efficient and effective surveillance.
+### FYP: Optimizing CCTV Placement (Bachelor Student)
+- **Genetic Algorithm for Optimal Camera Placement**
+  - Developed Python software aiding technicians in optimal camera placement.
+  - Applied OpenCV for accurate image preprocessing.
+  - Utilized Genetic Algorithm inspired by the Art Gallery Problem for efficient camera positioning.
+  - Considered factors like camera quantity and coverage for effective surveillance.
 
 <!-- ### EziMart -->
 <!-- - Developed a mobile application for a Self-Checkout e-Mall with Smart Parking System for Shopping Mall. The system has the features such as Product Assistant, Customer Service Chatbot, and Pay Parking using Android Studio, Firebase, and python. -->
