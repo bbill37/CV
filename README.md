@@ -7,6 +7,7 @@ Certified in Google Cloud Computing, Machine Learning, Data Engineering, and App
 As a detail-oriented team player with strong communication skills, I'm excited about contributing to a dynamic professional environment post-graduation.
 
 <!-- [UTeM's Cover Letter](https://drive.google.com/file/d/1d76a9ZgQRlLairH4lP_wGArNDnUFiTkX/view?usp=drive_link) -->
+[UTeM's Cover Letter](/akuan_perlindungan_diri.pdf)
 
 ## Education
 - B.CS., Artificial Intelligence | Universiti Teknikal Malaysia Melaka (_Mar 2024_)
@@ -15,7 +16,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 
 ## Experiences
 
-### XeerSoft Sdn Bhd (Oct 2023-Mar 2024)
+### XeerSoft Sdn Bhd (_Oct 2023-Mar 2024_)
 - **Development Solution Intern**
   - Spearheaded system function development, contributing to critical projects using Golang, AngularJS, and MySQL.
   - Played a pivotal role in debugging processes, identifying and resolving coding issues promptly.
@@ -26,7 +27,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 
 ## Projects
 
-### XeerSoft Web (Oct 2023-Mar 2024)
+### XeerSoft Web (_Oct 2023-Mar 2024_)
 - **Development Solution Intern**
   - **Role:** Contributed to the ongoing development and maintenance of XeerSoft Web Admin.
   - **Responsibilities:**
@@ -36,7 +37,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
     - Worked with cross-functional teams to gather requirements and enhance user experiences.
   - **Technologies:** Angular, TypeScript, HTML, CSS.
 
-### XeerSoft API (Oct 2023-Mar 2024)
+### XeerSoft API (_Oct 2023-Mar 2024_)
 - **Development Solution Intern**
   - **Role:** Actively contributed to the development and maintenance of XeerSoft API, connecting the server database to the web admin.
   - **Responsibilities:**
@@ -47,7 +48,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
     - Actively engaged in problem-solving and contributed to continuous improvement.
   - **Technologies:** Golang, MySQL, Postman, Swagger.
 
-### FYP: Optimizing CCTV Placement for Indoor Building using Genetic Algorithm (Mar 2023-Sep 2023)
+### FYP: Optimizing CCTV Placement for Indoor Building using Genetic Algorithm (_Mar 2023-Sep 2023_)
 - **Bachelor Student**
   - **Role:** Developed a Python-based software to aid technicians and engineers in optimal camera placement for indoor buildings.
   - **Responsibilities:**
