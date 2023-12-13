@@ -90,10 +90,8 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 | SQL             | Intermediate      |
 | Android Studio  | Intermediate      |
 | DaVinci Resolve | Intermediate      |
-| Data analysis   | Intermediate      |
-| MATLAB          | Intermediate      |
+| MATLAB          | Basic             |
 | Google Cloud    | Basic             |
-| Docker          | Basic             |
 | Postman         | Basic             |
 
 ## Soft Skills
