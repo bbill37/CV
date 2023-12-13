@@ -13,42 +13,48 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 - Matriculation, Module II Physical Science | Kolej Matrikulasi Negeri Sembilan (_Mar 2020_)
 - SPM, Pure Science | St. John's Institution KL (_Dec 2018_)
 
-### XeerSoft Sdn Bhd (Oct 2023-Mar 2024)
-- **Development Solution Team**
-  - Played a vital role in the development solution team at XeerSoft, contributing to crucial projects.
-  - **Project Management**
-    - Managed tasks and timelines, ensuring efficient project delivery.
-    - Collaborated with cross-functional teams for project requirements and execution.
-  - **Problem Resolution**
-    - Proactively identified and resolved challenges, ensuring the smooth progress of development.
-  - **Continuous Learning**
-    - Adapted to new technologies and methodologies for project optimization.
+## Experiences
+
+## XeerSoft Sdn Bhd (Oct 2023-Mar 2024)
+- **Development Solution Intern**
+  - Spearheaded system function development, contributing to critical projects using Golang, AngularJS, and MySQL.
+  - Played a pivotal role in debugging processes, identifying and resolving coding issues promptly.
+  - Actively participated in coding enhancements, implementing improvements for optimal system performance.
+  - Collaborated with cross-functional teams, ensuring seamless integration and functionality across platforms.
+  - Engaged in problem-solving sessions, addressing challenges in coding and system architecture.
+  - Contributed insights during code reviews, fostering a collaborative and constructive development environment.
 
 ## Projects
 
-### XeerSoft Web (Dev Solution Intern)
-- **Developed and Maintained XeerSoft Web Admin**
-  - Implemented features and functionality using Angular CLI (v15.2.1), ensuring a seamless user experience.
-  - Collaborated across teams, gathered requirements, troubleshooted issues, and optimized user workflows.
-  - Conducted code reviews, identified improvements, and implemented best practices.
-  - Utilized Angular, TypeScript, HTML, and CSS for responsive and dynamic UI.
+### XeerSoft Web (Oct 2023-Mar 2024)
+- **Development Solution Intern**
+  - **Role:** Contributed to the ongoing development and maintenance of XeerSoft Web Admin.
+  - **Responsibilities:**
+    - Collaborated in implementing new features and functionalities using Angular CLI (version 15.2.1).
+    - Conducted troubleshooting sessions, identified and resolved issues, and optimized user workflows.
+    - Participated in code reviews, suggesting improvements and adhering to best practices.
+    - Worked with cross-functional teams to gather requirements and enhance user experiences.
+  - **Technologies:** Angular, TypeScript, HTML, CSS.
 
-### XeerSoft API (Dev Solution Intern)
-- **Contributed to XeerSoft API Development**
-  - Developed and maintained the XeerSoft API, bridging the server database and web admin.
-  - Implemented and optimized API endpoints with Golang, ensuring efficient data retrieval, storage, and processing.
-  - Used SQLyog for MySQL management and Postman for API testing and debugging.
-  - Explored Swagger for API documentation, learning existing code, and enhancing documentation practices.
-  - Collaborated on backend improvements for data synchronization and overall API functionality.
-  - Assisted in documenting API specifications and best practices.
-  - Engaged in problem-solving despite no commit authority, contributing to continuous API enhancement.
+### XeerSoft API (Oct 2023-Mar 2024)
+- **Development Solution Intern**
+  - **Role:** Actively contributed to the development and maintenance of XeerSoft API, connecting the server database to the web admin.
+  - **Responsibilities:**
+    - Implemented and optimized API endpoints using Golang for efficient data retrieval, storage, and processing.
+    - Utilized SQLyog for MySQL database management and Postman for API testing and debugging.
+    - Explored Swagger for enhanced API documentation practices.
+    - Collaborated with backend developers to improve data synchronization and overall API functionality.
+    - Actively engaged in problem-solving and contributed to continuous improvement.
+  - **Technologies:** Golang, MySQL, Postman, Swagger.
 
-### FYP: Optimizing CCTV Placement (Bachelor Student)
-- **Genetic Algorithm for Optimal Camera Placement**
-  - Developed Python software aiding technicians in optimal camera placement.
-  - Applied OpenCV for accurate image preprocessing.
-  - Utilized Genetic Algorithm inspired by the Art Gallery Problem for efficient camera positioning.
-  - Considered factors like camera quantity and coverage for effective surveillance.
+### FYP: Optimizing CCTV Placement for Indoor Building using Genetic Algorithm (Mar 2023-Sep 2023)
+- **Bachelor Student**
+  - **Role:** Developed a Python-based software to aid technicians and engineers in optimal camera placement for indoor buildings.
+  - **Responsibilities:**
+    - Applied OpenCV for image preprocessing to enhance analysis accuracy.
+    - Utilized Genetic Algorithm, inspired by the Art Gallery Problem, for camera placement optimization.
+    - Considered factors such as camera quantity and coverage area for efficient surveillance.
+  - **Technologies:** Python, OpenCV.
 
 <!-- ### EziMart -->
 <!-- - Developed a mobile application for a Self-Checkout e-Mall with Smart Parking System for Shopping Mall. The system has the features such as Product Assistant, Customer Service Chatbot, and Pay Parking using Android Studio, Firebase, and python. -->
