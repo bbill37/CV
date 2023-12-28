@@ -38,7 +38,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
   - **Technologies:** Angular, TypeScript, HTML, CSS.
 
 ### XeerSoft API (_Oct 2023-Mar 2024_)
-- **Development Solution Intern**
+- **Software Developer Intern**
   - **Role:** Actively contributed to the development and maintenance of XeerSoft API, connecting the server database to the web admin.
   - **Responsibilities:**
     - Implemented and optimized API endpoints using Golang for efficient data retrieval, storage, and processing.
