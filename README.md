@@ -17,7 +17,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 ## Experiences
 
 ### XeerSoft Sdn Bhd (_Oct 2023-Mar 2024_)
-- **Development Solution Intern**
+- **Software Developer Intern**
   - Spearheaded system function development, contributing to critical projects using Golang, AngularJS, and MySQL.
   - Played a pivotal role in debugging processes, identifying and resolving coding issues promptly.
   - Actively participated in coding enhancements, implementing improvements for optimal system performance.
@@ -28,7 +28,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 ## Projects
 
 ### XeerSoft Web (_Oct 2023-Mar 2024_)
-- **Development Solution Intern**
+- **Software Developer Intern**
   - **Role:** Contributed to the ongoing development and maintenance of XeerSoft Web Admin.
   - **Responsibilities:**
     - Collaborated in implementing new features and functionalities using Angular CLI (version 15.2.1).
