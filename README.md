@@ -106,10 +106,10 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 ## Referees
 
 __TS. DR. ZERATUL IZZAH BINTI MOHD YUSOH__ | zeratul@utem.edu.my
-PERSONAL ADVISOR | 0123578541
+PERSONAL ADVISOR | 6062702430
 
 __DR. NORHAZWANI BINTI MD YUNOS__ | wanie.my@utem.edu.my
-SENIOR LECTURER | 0127442798
+SENIOR LECTURER | 6062702444
 
 * * *
 
