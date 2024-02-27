@@ -1,13 +1,13 @@
 # AI Graduate and Web Dev Intern
 
-I'm a final-year B.CS. student specializing in AI, currently excelling in a dynamic internship at XeerSoft until March 2024. With proven expertise in AI, computer science, and web development, I've crafted AI solutions and contributed to XeerSoft's web administration projects. During my internship, I've sharpened skills in Golang, AngularJS, and databases, demonstrating a commitment to problem-solving.
+I'm a final-year B.CS. student specializing in AI, currently excelling in a dynamic internship at XeerSoft until March 2024. With proven expertise in AI, computer science, and web development, I've crafted web solutions and contributed to XeerSoft's web administration projects. During my internship, I've sharpened skills in Golang, AngularJS, and databases, demonstrating a commitment to problem-solving.
 
 Certified in Google Cloud Computing, Machine Learning, Data Engineering, and Applications & Use Cases, I bring a holistic tech approach. Transitioning from intern to graduate, I'm eager to apply my diverse skills in a challenging role that contributes to a tech-focused organization's success.
 
 As a detail-oriented team player with strong communication skills, I'm excited about contributing to a dynamic professional environment post-graduation.
 
 <!-- [UTeM's Cover Letter](https://drive.google.com/file/d/1d76a9ZgQRlLairH4lP_wGArNDnUFiTkX/view?usp=drive_link) -->
-[UTeM's Cover Letter](/akuan_perlindungan_diri.pdf)
+<!-- [UTeM's Cover Letter](/akuan_perlindungan_diri.pdf) -->
 
 ## Education
 - B.CS., Artificial Intelligence | Universiti Teknikal Malaysia Melaka (_Mar 2024_)
@@ -83,9 +83,9 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 
 | Skill           | Level             |
 |:----------------|:------------------|
-| C++             | Advanced          |
-| Python          | Advanced          |
-| Java            | Advanced          |
+| C++             | Intermediate      |
+| Python          | Intermediate      |
+| Java            | Intermediate      |
 | Golang          | Intermediate      |
 | AngularJS       | Intermediate      |
 | SQL             | Intermediate      |
