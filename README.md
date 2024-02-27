@@ -1,6 +1,6 @@
 # AI Graduate and Web Dev Intern
 
-I'm a final-year B.CS. student specializing in AI, currently excelling in a dynamic internship at XeerSoft until March 2024. With proven expertise in AI, computer science, and web development, I've crafted web solutions and contributed to XeerSoft's web administration projects. During my internship, I've sharpened skills in Golang, AngularJS, and databases, demonstrating a commitment to problem-solving.
+I'm a final-year B.CS. student specializing in AI, currently excelling in a dynamic internship at XeerSoft until March 2024. During my internship, I've sharpened skills in Golang, AngularJS, and databases, demonstrating a commitment to problem-solving.
 
 Certified in Google Cloud Computing, Machine Learning, Data Engineering, and Applications & Use Cases, I bring a holistic tech approach. Transitioning from intern to graduate, I'm eager to apply my diverse skills in a challenging role that contributes to a tech-focused organization's success.
 
@@ -83,17 +83,16 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 
 | Skill           | Level             |
 |:----------------|:------------------|
-| C++             | Intermediate      |
-| Python          | Intermediate      |
-| Java            | Intermediate      |
-| Golang          | Intermediate      |
 | AngularJS       | Intermediate      |
+| Golang          | Intermediate      |
+| Java            | Intermediate      |
+| Python          | Intermediate      |
+| C++             | Intermediate      |
 | SQL             | Intermediate      |
-| Android Studio  | Intermediate      |
-| DaVinci Resolve | Intermediate      |
-| MATLAB          | Basic             |
+| OpenCV          | Intermediate      |
+| Ubuntu          | Intermediate      |
+| Davinci Resolve | Basic             |
 | Google Cloud    | Basic             |
-| Postman         | Basic             |
 
 ## Soft Skills
 - Time management
@@ -103,13 +102,21 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 - Problem-solving
 - Adaptability
 
+## Languages
+
+|                 | Proficiency       |
+|:----------------|:------------------|
+| Malay           | Native            |
+| English         | Intermediate      |
+| Japanese        | Elementary        |
+
 ## Referees
 
-__TS. DR. ZERATUL IZZAH BINTI MOHD YUSOH__ | zeratul@utem.edu.my
-PERSONAL ADVISOR | 6062702430
+__MR. ONG HENG WAY__ | hengway.ong@xeersoft.com
+INTERNSHIP SUPERVISOR | +603-9284 8286
 
 __DR. NORHAZWANI BINTI MD YUNOS__ | wanie.my@utem.edu.my
-SENIOR LECTURER | 6062702444
+FYP SUPERVISOR | +606-270 2444
 
 * * *
 
