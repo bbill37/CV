@@ -39,7 +39,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 
 ### XeerSoft API (_Oct 2023-Mar 2024_)
 - **Software Developer Intern**
-  - **Role:** Actively contributed to the development and maintenance of XeerSoft API, connecting the server database to the web admin.
+  - **Role:** Actively contributed to the development and maintenance of XeerSoft API, connecting the server database to the web admin and other applications.
   - **Responsibilities:**
     - Implemented and optimized API endpoints using Golang for efficient data retrieval, storage, and processing.
     - Utilized SQLyog for MySQL database management and Postman for API testing and debugging.
