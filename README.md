@@ -75,7 +75,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 - Developed a program that will record and view Covid-19 cases for three districts in Melaka. These three districts which are affected by Covid-19 are Melaka Tengah, Alor Gajah, and Jasin using C++. -->
 
 ## Certifications
-- __[Google Cloud Computing Foundations](/CCF BITS2573-M Nabil Akif.pdf)__ - Google Cloud (_Sep 2023_)
+- __[Google Cloud Computing Foundations](/GCCF.pdf)__ - Google Cloud (_Sep 2023_)
 - __[Machine Learning Professional Certification](/muhammad-nabil-akif-bin-nor-azman-f105d200-e5a3-4d4c-9d57-7468a02ca644-certificate.pdf)__ - Altair RapidMiner (_Dec 2022_)
 - __[Data Engineering Professional Certification](/muhammad-nabil-akif-bin-nor-azman-d0bfe040-96f9-4e21-91e3-2fa1e3536eaf-certificate.pdf)__ - Altair RapidMiner (_Dec 2022_)
 - __[Applications & Use Cases Professional Certification](/muhammad-nabil-akif-bin-nor-azman-7c048997-5a2e-46a6-a317-ac9eee541026-certificate.pdf)__ - Altair RapidMiner (_Dec 2022_)
