@@ -1,6 +1,6 @@
 # AI Graduate and Web Dev Intern
 
-I'm a final-year B.CS. student specializing in AI, currently excelling in a dynamic internship at XeerSoft until March 2024. During my internship, I've sharpened skills in Golang, AngularJS, and databases, demonstrating a commitment to problem-solving.
+I'm a final-year B.CS. student specializing in AI, currently excelling in a dynamic internship at XeerSoft until March 2024. During my internship, I've sharpened skills in Golang, Angular, and databases, demonstrating a commitment to problem-solving.
 
 Certified in Google Cloud Computing, Machine Learning, Data Engineering, and Applications & Use Cases, I bring a holistic tech approach. Transitioning from intern to graduate, I'm eager to apply my diverse skills in a challenging role that contributes to a tech-focused organization's success.
 
@@ -19,7 +19,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 
 ### XeerSoft Sdn Bhd (_Oct 2023-Mar 2024_)
 - **Software Developer Intern**
-  - Spearheaded system function development, contributing to critical projects using Golang, AngularJS, and MySQL.
+  - Spearheaded system function development, contributing to critical projects using Golang, Angular, and MySQL.
   - Played a pivotal role in debugging processes, identifying and resolving coding issues promptly.
   - Actively participated in coding enhancements, implementing improvements for optimal system performance.
   - Collaborated with cross-functional teams, ensuring seamless integration and functionality across platforms.
@@ -84,7 +84,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 
 | Skill           | Level             |
 |:----------------|:------------------|
-| AngularJS       | Intermediate      |
+| Angular       | Intermediate      |
 | Golang          | Intermediate      |
 | Java            | Intermediate      |
 | Python          | Intermediate      |
