@@ -8,7 +8,7 @@ As a detail-oriented team player with strong communication skills, I'm excited a
 
 <!-- [UTeM's Cover Letter](https://drive.google.com/file/d/1d76a9ZgQRlLairH4lP_wGArNDnUFiTkX/view?usp=drive_link) -->
 <!-- [UTeM's Cover Letter](/akuan_perlindungan_diri.pdf) -->
-[RESUME](/RESUME - NABIL NOR.pdf)
+[RESUME](/resume.pdf)
 
 ## Education
 - B.CS., Artificial Intelligence | [Universiti Teknikal Malaysia Melaka](https://ftmk.utem.edu.my/ica/BITI/) (_Mar 2024_)
